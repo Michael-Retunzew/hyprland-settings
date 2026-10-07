@@ -5,6 +5,10 @@ animations and a few system options in Noctalia. Every change goes into one Lua 
 with a reason above each value, and it reverts by itself after 15 seconds unless you
 keep it.
 
+It covers the settings you change day to day. To edit your whole config, including
+keybinds and window rules, have a look at
+[hyprconf](https://github.com/muschneider/hyprlandconf-gui), a standalone editor.
+
 ![Appearance page](screenshots/appearance.webp)
 
 ## Plugin
