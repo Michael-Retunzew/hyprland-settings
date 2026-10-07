@@ -1,0 +1,12 @@
+[[plugin]]
+id           = "michael-retunzew/hyprland-settings"
+name         = "Hyprland Settings"
+version      = "1.0.0"
+author       = "michael-retunzew"
+license      = "MIT"
+icon         = "adjustments"
+description  = "Settings panel for Hyprland's Lua config: displays, input, look. Every change keeps or reverts in 15 s."
+deprecated   = false
+plugin_api   = 32
+tags         = ["hyprland", "panel", "bar", "launcher", "service", "system", "utility"]
+dependencies = ["hyprland", "lua", "util-linux", "systemd"]
